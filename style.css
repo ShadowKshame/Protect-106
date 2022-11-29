@@ -1,0 +1,21 @@
+body
+{
+ background: linear-gradient(rgb(0, 21, 255) 0%,rgb(0, 255, 21) 100%) ;
+ color:white;
+}
+
+#heading
+{
+    background: linear-gradient(rgb(255, 0, 0) 0%,rgb(255, 140, 0) 100%) ;
+    font-size:25px;
+}
+
+#b1
+{
+    background-color: rgb(250, 2, 2);
+}
+
+#b2
+{
+    background-color:  rgb(255, 170, 0);
+}
