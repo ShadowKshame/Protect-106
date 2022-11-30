@@ -31,3 +31,8 @@ body
     text-align: center;
     text-shadow:5px 5px 5px rgb(red, green, blue);
 }
+
+img
+{
+    margin:10px;
+}
